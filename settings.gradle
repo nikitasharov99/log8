@@ -1,0 +1,4 @@
+rootProject.name = 'netology-hw-builder-gradle'
+
+include 'db', 'service', 'api'
+
